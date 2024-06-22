@@ -1,5 +1,5 @@
 
-# Django 🖥️
+# Django 
 
 Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. It is known for its "batteries-included" philosophy, which includes everything you need to build web applications. The resources below will guide you through Django's core concepts and advanced techniques.
 
@@ -325,13 +325,11 @@ Django is a high-level Python web framework that encourages rapid development an
     <td>A comprehensive tutorial on building a local library website with Django.</td>
   </tr>
   <tr>
-    <td><a href="
-  https://www.w3schools.com/django/index.php">w3schools - Learn Django</a></td>
+    <td><a href="https://www.w3schools.com/django/index.php">w3schools - Learn Django</a></td>
     <td>A comprehensive tutorial on Django.</td>
   </tr>
   <tr>
-    <td><a href="
-  https://www.tutorialspoint.com/django/index.htm">Tutorials Point- Django Tutorial</a></td>
+    <td><a href="https://www.tutorialspoint.com/django/index.htm">Tutorials Point- Django Tutorial</a></td>
     <td>Tutorials on Django.</td>
   </tr>
 </table>
@@ -404,18 +402,15 @@ Django is a high-level Python web framework that encourages rapid development an
     <td>A detailed cheatsheet by Django Central covering various aspects of Django development.</td>
   </tr>
   <tr>
-    <td><a href="
-https://www.codewithharry.com/blogpost/django-cheatsheet/">CodeWithHarry - Cheatsheet</a></td>
+    <td><a href="https://www.codewithharry.com/blogpost/django-cheatsheet/">CodeWithHarry - Cheatsheet</a></td>
     <td>A cheatsheet by CodeWithHarry covering topics on Django.</td>
   </tr>
   <tr>
-    <td><a href="
-https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056">2056 - Cheatsheet</a></td>
+    <td><a href="https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056">2056 - Cheatsheet</a></td>
     <td>CheatSheet for Django</td>
   </tr>
   <tr>
-    <td><a href="
-https://github.com/lucrae/django-cheat-sheet">Django Cheatsheet</a></td>
+    <td><a href="https://github.com/lucrae/django-cheat-sheet">Django Cheatsheet</a></td>
     <td>A cheatsheet on Django development.</td>
   </tr>
 </table>

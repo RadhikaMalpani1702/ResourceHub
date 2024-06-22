@@ -1,4 +1,4 @@
-# Web3 🚀
+# Web3 
 
 Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
 
@@ -633,6 +633,10 @@ Blockchain Supply chain management plays a critical role in ensuring efficient o
         <td> This project facilitates decentralized image upload and sharing on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.</td>
       </tr>
       <tr>
+        <td><a href="https://youtu.be/zfLGYZDYFuo?si=sO0lC2Xi-xiOaZz_">TODO application using Blockchain</a></td>
+        <td>In this create a cutting-edge Bern application (dApp) from scratch using the powerful combination of Blockchain, Express, React, and Node.js. Whether you're a seasoned developer looking to expand your skills or a curious beginner eager to delve into decentralized app development, this step-by-step guide has got you covered.</td>
+      </tr>
+      <tr>
         <td><a href="https://youtu.be/X1ahXNYkpL8?si=kMNrjlvIaKx0Mbhe">Web 3.0 Amazon Clone</a></td>
         <td> This project facilitates decentralized  Amazon Clone Step-By-Step with Solidity (Writing Smart Contracts & Tests), Javascript (React & Testing), Hardhat (Development Framework),Ethers.js (Blockchain Interaction), React.js (Frontend Framework).</td>
       </tr>
@@ -641,6 +645,11 @@ Blockchain Supply chain management plays a critical role in ensuring efficient o
         <td><a href="https://youtu.be/BDCT6TYLYdI?si=dLHEYc5TndOlV-F6">Blockchain Crowdfunding Platform </a></td>
         <td> With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and, most importantly, the ability to create create, view, and donate to crowdfunding campaigns directly through the blockchain; this course is perfect to fully understand how web3, blockchain, Solidity, and smart contracts truly work behind the scenes.</td>
       </tr>
+      <tr>
+        <td><a href="https://youtu.be/y6JfVdcJh1k?si=Vp8KimEBzUUu4RPD"> Build an NFT Marketplace </a></td>
+        <td> In this Projrct Build your own NFT marketplace from Scratch using: Metamask, Hardhat, IPFS (Pinata)and Alchemy!</td>
+      </tr>
+
 
 </table>
 
